@@ -1,0 +1,11 @@
+#move structure upwoards and rotate
+
+substructures:
+  6BarSphere:
+    path: ./isodrop3Aext.yaml
+    rotation:
+      axis: [0,1,0]
+      angle: 8
+    
+
+     
